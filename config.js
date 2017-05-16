@@ -1,5 +1,5 @@
 module.exports = {
   apiUsername:"codingsastra",
   apiPassword:"codingsastra",
-  dbUrl:"mongodb://localhost:27017/reactcoding"
+  dbUrl:"mongodb://<modhussain>:<inazumaHussain8>@ds137141.mlab.com:37141/hussain"
 }
